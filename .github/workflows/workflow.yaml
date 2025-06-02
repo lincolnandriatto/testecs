@@ -15,4 +15,4 @@ jobs:
       - name: install and run tests
         run: |
           pip install -r requirements.txt 
-          pytest .\app\test\test.py
+          pytest ./app/test/test.py
