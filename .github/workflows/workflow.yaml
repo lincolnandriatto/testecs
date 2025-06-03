@@ -3,7 +3,7 @@ name: Continous Integration
 on: push
 
 jobs:
-  conntinous-integration:
+  conntinous-integration-v1:
     runs-on: ubuntu-latest
 
     steps:
